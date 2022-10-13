@@ -1,7 +1,5 @@
 ![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png)
 
-![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png)
-
 # | LB11 | PAB2023 | 00943 |
 # Exercise 1
 
@@ -32,3 +30,5 @@ the ```import this``` library, as an Easter Egg.
 
 Running this file prints the Zen of Python by [Tim Peters](https://github.com/tim-one), where he tries to show us the 19 guiding principles
 for Python design.
+
+![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png)
