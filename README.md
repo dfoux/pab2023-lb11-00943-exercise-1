@@ -7,7 +7,8 @@
 # | LB11 | PAB2023 | 00943 |
 ## Exercise 1
 
-This exercise was designed by our teacher - [Francisco Pina-Martins](https://github.com/StuntsPT) to introduce us to Python, HTML and Markdown.
+This exercise was designed by our teacher [Francisco Pina-Martins](https://github.com/StuntsPT) to introduce us 
+to Python, HTML and Markdown.
 
 The assessment can be found on the website https://stuntspt.gitlab.io/pab_22-23/classes/practicals/ex01.html
 
