@@ -20,6 +20,7 @@ edit some HTML properties to present a different output on a web browser.
 
 After playing around with some colours I decided to clone a 
 todo HTML page made by [pyscript](https://github.com/pyscript).
+
 This clone has an embedded python program that I've tweaked in order to gain some willpower to motivate me throughout
 this bachelor.
 
