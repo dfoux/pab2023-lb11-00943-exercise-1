@@ -26,10 +26,10 @@ this bachelor.
 
 Feel free to try it out and let me know if you can find and correct my Easter Egg. (It is easy.)
 
-In the end of the class we were introduced to the Zen of Python by creating a file containing 
-the ```import this``` library, as an Easter Egg.
+In the end of the class we were introduced to the Zen of Python by creating a single line file containing the
+command ```import this```.
 
-Running this file prints the Zen of Python by [Tim Peters](https://github.com/tim-one), where he tries to show us the 19 guiding principles
-for Python design.
+The "this" library is an Easter Egg. By running this program it will output the Zen of Python by
+[Tim Peters](https://github.com/tim-one). The Zen of Python are  the 19 guiding principles for Python design.
 
 ![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png)
