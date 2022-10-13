@@ -1,4 +1,4 @@
-**# <img align="right" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png">
+# <img align="right" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png">
 # <img align="left" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png">
 #
 #
