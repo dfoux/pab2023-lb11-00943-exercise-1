@@ -1,12 +1,10 @@
-# <img align="right" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png">
-# <img align="left" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png">
-#
-#
-#
-#
+![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png)
+
+![](https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png)
+
 # | LB11 | PAB2023 | 00943 |
-## Exercise 1
-#
+# Exercise 1
+
 
 This exercise was designed by our teacher [Francisco Pina-Martins](https://github.com/StuntsPT) to introduce us 
 to Python, HTML and Markdown.
