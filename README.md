@@ -1,4 +1,4 @@
-# <img align="right" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png">
+**# <img align="right" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/python_logo.png">
 # <img align="left" width="" height="" src="https://stuntspt.gitlab.io/pab_22-23/classes/presentation_assets/logo-ESTB.png">
 #
 #
@@ -11,7 +11,7 @@ This exercise was designed by our teacher @github/stuntspt to introduce us to Py
 
 The assessment can be found on the website https://stuntspt.gitlab.io/pab_22-23/classes/practicals/ex01.html
 
-The resulting project contains 3 HTML, 2 Python and 1 Markdown files.
+The resulting project contains 4 HTML, 2 Python and 1 Markdown files.
 
 All the files run simple ```Hello World``` programs and served as a quick guide on how to embed multiple properties
 into our HTML code, including a Javascript script that was previously written and on how to write and run an interpreted
