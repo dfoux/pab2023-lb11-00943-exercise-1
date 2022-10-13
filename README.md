@@ -6,6 +6,7 @@
 #
 # | LB11 | PAB2023 | 00943 |
 ## Exercise 1
+#
 
 This exercise was designed by our teacher [Francisco Pina-Martins](https://github.com/StuntsPT) to introduce us 
 to Python, HTML and Markdown.
